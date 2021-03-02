@@ -1,6 +1,6 @@
 # Project 3 - *InstagramClone*
 
-**Name of your app** is a photo sharing app similar to Instagram but using Parse as its backend.
+**InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
 Time spent: **3** hours spent in total
 
@@ -31,9 +31,6 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
